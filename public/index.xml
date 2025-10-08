@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sara Båtevik</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sara Båtevik</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IoT Board</title>
+      <link>http://localhost:1313/projects/iot_board/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/iot_board/</guid>
+      <description>&lt;p&gt;I am currently following &lt;a href=&#34;https://techexplorations.com/kicad/kicad-9-designing-a-4-layer-iot-development-board/#h-full-design-video&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a guide on how to make a mid-complexity IoT board&lt;/a&gt; using KiCAD 9. It is made using an ESP32 with interfaces such as I²C, UART and SPI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Snake in Godot</title>
+      <link>http://localhost:1313/projects/snake-in-godot/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/snake-in-godot/</guid>
+      <description>&lt;p&gt;I followed a tutorial for making snake in Godot, and made my own graphics to complement the design. Instead of a snake, it is a long dragon, and instead of eating apples, it is eating pizza. Designing a game in Godot was both fun and challening, as it was my first time trying to program in a game engine. It was fun to make a playable game, and to design the game with my own twist, such as adding a dragon growl instead of a biting apple sound. It was a fun little side project to try out Godot.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Personal work website</title>
+      <link>http://localhost:1313/projects/personal_website_work/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/personal_website_work/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.sarabatevik.no&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My personal webiste&lt;/a&gt; is a website meant to display my personal projects and experience. I hosted this website on &lt;a href=&#34;https://github.com/sassybunsthebun/SassyBuns&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. It is made with HUGO. Since I already made a website in HUGO before, it was easy to get into. I am happy with the fact it only took me a few hours to get the design how I wanted.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ECG circuit with wireless transmission</title>
+      <link>http://localhost:1313/projects/ecg/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ecg/</guid>
+      <description>&lt;p&gt;During the IELS2003 course our class got an introduction to PCB design as well as knowledge about how component choices impact the circuit design. We created a heart rate monitor/ECG monitor that wirelessly transmits heart rate measuements to a website. Through two iterations and testing, I managed to create a design that best fit the given requirements for the course. This PCB was made with through-hole components soldered by us and designed in Altium. It was a fun challenge to learn Altium, as it had some of the design workflow elements that I was used to, but it is also a robust program that is capable than much more than the simple features I had previously learned. It didn&amp;rsquo;t take too long for me to pass that initial learning curve, and after that the program was rather enjoyable to work with. I like the red PCB with the silkscreen heart, I thought it was a fun addition to add to an ECG monitor. I also added a LED connected to the ESP32 that I programmed to pulsate in the heart rate of the user, which I also liked a lot!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Personal PCB ruler</title>
+      <link>http://localhost:1313/projects/personal_pcb_ruler/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/personal_pcb_ruler/</guid>
+      <description>&lt;p&gt;I made a ruler inspired by Inission&amp;rsquo;s ruler after we visited their PCB assebly factory. The ruler is a PCB designed in KiCAD, with silkscreen and copper trace design. After having worked with Altium in school, it was a bit odd getting into KiCAD, as some things in the Altium design process felt more intuitive than in KiCAD. It wasn&amp;rsquo;t too long before KiCAD mde sense thugh, and the ruler was designed and ordered. I was happy with the idea, again being a bit creative with the design.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Step-down converter</title>
+      <link>http://localhost:1313/projects/step-down/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/step-down/</guid>
+      <description>&lt;p&gt;During the IELS2031 course our class got an introduction to PCB design as well as knowledge about how component choices impact the circuit design. We created a 5V to 1V step down converter made to carry a load of up to 2A over a load resistor. Through two iterations and testing, we managed to create a design that best fit the given requirements for the course. This PCB was made with SMD components and designed in Altium. It was a fun challenge to learn Altium, as it had some of the design workflow elements that I was used to, but it is also a robust program that is capable than much more than the simple features I had previously learned. It didn&amp;rsquo;t take too long for me to pass that initial learning curve, and after that the program was rather enjoyable to work with. I liked the blue design of the PCB, as well as the fact that I added an outline of the dragon PCB and my personal logo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Asteroids game in Python</title>
+      <link>http://localhost:1313/projects/asteroids/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/asteroids/</guid>
+      <description>&lt;p&gt;This &lt;a href=&#34;https://github.com/sassybunsthebun/asteroids&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;asteroids game&lt;/a&gt; is a Python program where you can play the classic game &amp;ldquo;Asteroids&amp;rdquo; made with pygame using object-orientd programming. The asteroids game was made by following a &lt;a href=&#34;https://www.boot.dev/courses/build-asteroids-python&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;boot.dev&lt;/a&gt; guide. The graphics are heavily simplified, but it turned out to be a fun little game to play. I found it most difficult to get into the midset and workflow of game design in this project, as I had done little of it previously, but after a bit of research i found it rather nice and intuituve. It was a nice challenge, and I was very proud of making something enjoyable to ply in the end.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bookbot in Python</title>
+      <link>http://localhost:1313/projects/bookbot/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/bookbot/</guid>
+      <description>&lt;p&gt;This &lt;a href=&#34;https://github.com/sassybunsthebun/bookbot&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;book bot&lt;/a&gt; is a Python program that can give statistical data about a given book, such as word and character usage. The book bot was made by following a &lt;a href=&#34;https://www.boot.dev/courses/build-bookbot-python&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;boot.dev&lt;/a&gt; guide. It was a very simple project, but a nice memory jog to ensure I don&amp;rsquo;t forget python syntax.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Personal hobby website</title>
+      <link>http://localhost:1313/projects/personal_website_hobby/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/personal_website_hobby/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.sassybuns.no&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My hobby webiste&lt;/a&gt; is a website meant to display my personal crafts as well as provide general info. I hosted this website on &lt;a href=&#34;https://github.com/sassybunsthebun/SassyBuns&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. It is made with HUGO, the same framework as the current website. It includes my bigger crafting projects. It was fun to get into HUGO, after trying a bit with the templates. When I got into the process of setting up HUGO, I found the website design process simple and intuitive. I am happy to have this website, and it is fun to work with.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sensor module</title>
+      <link>http://localhost:1313/projects/sensor_module/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sensor_module/</guid>
+      <description>&lt;p&gt;Summer 2025 I worked for New Gaze, developing a technology to assist blind anlow vision people with navigation in their daily life. I worked to create a sensor module with sensors needed for the project. The sensors and futher details cannot be discussed in greater details to keep the company development ideas safe. At the time, New Gaze had three people working on the project, where I had most responsibility over the sensor module, and made this module myself. I got input from the others, but did the final product myself. I am happy to have been able to have so much responsibility at work and to have made a sensor module that works well, with short response time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>555 Timer Dragon</title>
+      <link>http://localhost:1313/projects/555-timer-dragon/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/555-timer-dragon/</guid>
+      <description>&lt;p&gt;A dragon-shaped PCB with an eye that glows using a 555 timer. This was my first-ever PCB design project. I made it using EasyEDA, and assembled it myself. It was also gret practice soldering, which I had done litte of at the time. I am proud to say the PCB design and soldering was successful on the first try. This inspired me to do more PCB design as well as learn more PCB design programs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am studing electronics systems engineering at NTNU, in my third year of my bachelor program. I am currently looking for full-time and part-time job opportunities in Trondheim.&lt;/p&gt;&#xA;&lt;p&gt;This page was made with Hugo, a framework for building websites. It&amp;rsquo;s written in Go. The theme is &amp;ldquo;Hugo-Coder&amp;rdquo;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact-information&#34;&gt;&#xA;  Contact information&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contact-information&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:post@sarabatevik.no&#34; &gt;post@sarabatevik.no&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/CV_Sara_B%C3%A5tevik.png&#34;&#xA;    alt=&#34;CV Sara Båtevik&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;CV Sara Båtevik&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>
