@@ -1,9 +1,13 @@
-baseURL = "http://www.example.com"
+baseURL = "http://www.sarabatevik.com"
 title = "Sara Båtevik"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [pagination]
 pagerSize = 6
