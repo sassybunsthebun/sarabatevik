@@ -2,9 +2,11 @@
 authors = ["Sara Båtevik"]
 title = "Personal PCB ruler"
 date = "2025-06-01"
-description = "A PCB ruler i designed in KiCAD."
+description = "A PCB ruler I designed in KiCAD."
 +++
 
-I made a ruler inspired by Inission's ruler after we visited their PCB assebly factory. The ruler is a PCB designed in KiCAD, with silkscreen and copper trace design. After having worked with Altium in school, it was a bit odd getting into KiCAD, as some things in the Altium design process felt more intuitive than in KiCAD. It wasn't too long before KiCAD mde sense thugh, and the ruler was designed and ordered. I was happy with the idea, again being a bit creative with the design.
+I made a ruler inspired by Inission's ruler after we visited their PCB assembly factory. The ruler is a PCB designed in KiCAD, with silkscreen and copper trace design. After having worked with Altium in school, it was a bit odd getting into KiCAD, as some things in the Altium design process felt more intuitive than in KiCAD. It didn't take long before KiCAD made sense though, and the ruler was designed and ordered. I was happy with the idea, again being a bit creative with the design.
 
 {{< figure src="dragonruler1.jpg" alt="PCB ruler with dragon head shaped copper traces" caption="PCB ruler with dragon head shaped copper traces" >}}
+
+{{< figure src="dragonruler2.jpg" alt="PCB ruler with dragon head shaped copper traces" caption="PCB ruler with dragon head shaped copper traces" >}}
