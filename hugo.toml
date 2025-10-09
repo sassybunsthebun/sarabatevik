@@ -64,7 +64,7 @@ customRemoteJS = []
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/sassybuns/"
+url = "https://github.com/sassybunsthebun/"
 
 [[params.social]]
 name = "Gitlab"
