@@ -1,7 +1,7 @@
 +++
 authors = ["Sara Båtevik"]
 title = "Personal work website"
-date = "2025-08-01"
+date = "2025-10-09"
 description = "A work-related website about projects I have completed."
 +++
 
