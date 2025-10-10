@@ -1,7 +1,7 @@
 +++
 authors = ["Sara Båtevik"]
 title = "Sensor module"
-date = "2024-08-01"
+date = "2025-08-01"
 description = "A sensor module I made at my summer job."
 +++
 
